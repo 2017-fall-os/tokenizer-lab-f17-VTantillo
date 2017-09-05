@@ -1,7 +1,7 @@
 # os-tokenizer-lab
 
-The printDemo subdir includes source code to a program that 
-prints text files line-by-line with line numbers.  It does lots of malloc and 
+The printDemo subdir includes source code to a program that
+prints text files line-by-line with line numbers.  It does lots of malloc and
 pointer futzing.
 
 Your lab should be added to the "tokenizer" subdir and pushed back to
@@ -55,6 +55,3 @@ address of an array containing:
 implementation of mytoc should only call functions written by you. In
 particular, calls to functions whose prototypes are in "string.h" such
 as "strtok()" are prohibited.
-
-
-
