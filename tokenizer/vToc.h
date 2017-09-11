@@ -1,4 +1,4 @@
-#ifdef TokenizerDef
+#ifndef TokenizerDef
 #define TokenizerDef
 
 char **vToc(char *str, char delim);
