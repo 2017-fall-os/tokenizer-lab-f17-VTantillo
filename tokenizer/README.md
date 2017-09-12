@@ -1,7 +1,7 @@
 Name: Victor Tantillo
 
 # Tokenizer
-For my implementation of the tokenizer, I do not have an option to specify another character to delimit by.  The only bug that I have found is that if the user types in an extra space in the "main" program, it prints it at the end of the output.  I don't think this is a bug with the tokenizer itself, but with how I am printing the output at the end of the loop.
+For my implementation of the tokenizer, I do not have an option to specify another character to delimit by.  The only bug that I have found is that if the user types in an extra space in the "main" program, it prints it at the end of the output.  I don't think this is a bug with the tokenizer itself, but with how I am printing the output at the end of the loop.  I discussed the algorithm, and how to properly use the system calls with Kimberly Kato.
 
 ## Use
 When you run 'make', two executable files are created.
